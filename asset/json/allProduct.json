@@ -1,0 +1,387 @@
+[
+    {
+        "id": "kc1",
+        "title": "Kid's Cloathe 1",
+        "price": 109.95,
+        "description": "Your perfect Cloathes your everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/dressKids/1.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": "kc2",
+        "title": "Kid's Cloathe 2",
+        "price": 109.95,
+        "description": "Your perfect Cloathes your everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/dressKids/2.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": "kc3",
+        "title": "Kid's Cloathe 3",
+        "price": 109.95,
+        "description": "Your perfect Cloathes your everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/dressKids/3.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": "kc4",
+        "title": "Kid's Cloathe 4",
+        "price": 109.95,
+        "description": "Your perfect Cloathes your everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/dressKids/4.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": "kc5",
+        "title": "Kid's Cloathe 5",
+        "price": 109.95,
+        "description": "Your perfect Cloathes your everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/dressKids/5.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    
+},
+{
+    "id": "mc1",
+    "title": "Mens Cloathe 1",
+    "price": 155.95,
+    "description": "Your perfect Dress in your everyday",
+    "category": "Mens clothing",
+    "image": "asset/image/dressMen/1.jpg",
+    "rating": {
+        "rate": 4.2,
+        "count": 455
+    }
+},
+{
+    "id": "mc2",
+    "title": "Mens Cloathe 2",
+    "price": 144.95,
+    "description": "Your perfect Dress in your everyday",
+    "category": "Mens clothing",
+    "image": "asset/image/dressMen/2.jpg",
+    "rating": {
+        "rate": 3.3,
+        "count": 120
+    }
+},
+{
+    "id": "mc3",
+    "title": "Mens Cloathe 3",
+    "price": 102.95,
+    "description": "Your perfect Dress in your everyday",
+    "category": "Mens clothing",
+    "image": "asset/image/dressMen/3.jpg",
+    "rating": {
+        "rate": 4.7,
+        "count": 63
+    }
+},
+{
+    "id": "mc4",
+    "title": "Mens Cloathe 4",
+    "price": 89.95,
+    "description": "Your perfect Dress in your everyday",
+    "category": "Mens clothing",
+    "image": "asset/image/dressMen/4.jpg",
+    "rating": {
+        "rate": 4.4,
+        "count": 89
+    }
+},
+{
+    "id": "mc5",
+    "title": "Mens Cloathe 5",
+    "price": 155.95,
+    "description": "Your perfect Dress in your everyday",
+    "category": "Mens clothing",
+    "image": "asset/image/dressMen/5.jpg",
+    "rating": {
+        "rate": 4.3,
+        "count": 800
+    }
+},
+{
+    "id": "wc1",
+    "title": "Women Cloathe 1",
+    "price": 155.95,
+    "description": "Your perfect Dress in your everyday",
+    "category": "Mens clothing",
+    "image": "asset/image/dressWomen/1.jpg",
+    "rating": {
+        "rate": 4.2,
+        "count": 455
+    }
+},
+{
+    "id": "wc2",
+    "title": "Women Cloathe 2",
+    "price": 144.95,
+    "description": "Your perfect Dress in your everyday",
+    "category": "Mens clothing",
+    "image": "asset/image/dressWomen/2.jpg",
+    "rating": {
+        "rate": 3.3,
+        "count": 120
+    }
+},
+{
+    "id": "wc3",
+    "title": "Women Cloathe 3",
+    "price": 102.95,
+    "description": "Your perfect Dress in your everyday",
+    "category": "Mens clothing",
+    "image": "asset/image/dressWomen/3.jpg",
+    "rating": {
+        "rate": 4.7,
+        "count": 63
+    }
+},
+{
+    "id": "wc4",
+    "title": "Women Cloathe 4",
+    "price": 89.95,
+    "description": "Your perfect Dress in your everyday",
+    "category": "Mens clothing",
+    "image": "asset/image/dressWomen/4.jpg",
+    "rating": {
+        "rate": 4.4,
+        "count": 89
+    }
+},
+{
+    "id": "kj1",
+    "title": "Kid's Jersey 1",
+    "price": 79.95,
+    "description": "Perfect Jersey for your  Kids everyday",
+    "category": "Kid's clothing",
+    "image": "asset/image/jerseyKids/1.jpg",
+    "rating": {
+        "rate": 3.5,
+        "count": 1770
+    }
+},
+{
+    "id": "kj2",
+    "title": "Kid's Jersey 2",
+    "price": 19.95,
+    "description": "Perfect Jersey for your  Kids everyday",
+    "category": "Kid's clothing",
+    "image": "asset/image/jerseyKids/2.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 10
+    }
+},
+{
+    "id": "kj3",
+    "title": "Kid's Jersey 3",
+    "price": 99.95,
+    "description": "Perfect Jersey for your  Kids everyday",
+    "category": "Kid's clothing",
+    "image": "asset/image/jerseyKids/3.jpg",
+    "rating": {
+        "rate": 3.9,
+        "count": 1240
+    }
+},
+{
+    "id": "kj4",
+    "title": "Kid's Jersey 4",
+    "price": 109.95,
+    "description": "Perfect Jersey for your  Kids everyday",
+    "category": "Kid's clothing",
+    "image": "asset/image/jerseyKids/4.jpg",
+    "rating": {
+        "rate": 3.6,
+        "count": 720
+    }
+},
+{
+    "id": "kj5",
+    "title": "Kid's Jersey 5",
+    "price": 109.95,
+    "description": "Perfect Jersey for your Kids",
+    "category": "Kid's clothing",
+    "image": "asset/image/jerseyKids/5.jpg",
+    "rating": {
+        "rate": 4.1,
+        "count": 170
+    }
+},
+{
+    "id": "kj6",
+    "title": "Kid's Jersey 6",
+    "price": 68.95,
+    "description": "Perfect Jersey for your Kids",
+    "category": "Kid's clothing",
+    "image": "asset/image/jerseyKids/6.jpg",
+    "rating": {
+        "rate": 2.9,
+        "count": 120
+    }
+},
+{
+    "id": "kj7",
+    "title": "Kid's Jersey 7",
+    "price": 48.95,
+    "description": "Perfect Jersey for your Kids",
+    "category": "Kid's clothing",
+    "image": "asset/image/jerseyKids/7.jpg",
+    "rating": {
+        "rate":3.1,
+        "count": 145
+    }
+},
+{
+    "id": "mj1",
+    "title": "Mens Jersey 1",
+    "price": 155.95,
+    "description": "Your perfect Jersey in your everyday",
+    "category": "Mens Jersey",
+    "image": "asset/image/jerseyMen/1.jpg",
+    "rating": {
+        "rate": 4.2,
+        "count": 455
+    }
+},
+{
+    "id": "mj2",
+    "title": "Mens Jersey 2",
+    "price": 144.95,
+    "description": "Your perfect Jersey in your everyday",
+    "category": "Mens Jersey",
+    "image": "asset/image/jerseyMen/2.jpg",
+    "rating": {
+        "rate": 3.3,
+        "count": 120
+    }
+},
+{
+    "id": "mj3",
+    "title": "Mens Jersey 3",
+    "price": 102.95,
+    "description": "Your perfect Jersey in your everyday",
+    "category": "Mens Jersey",
+    "image": "asset/image/jerseyMen/3.jpg",
+    "rating": {
+        "rate": 4.7,
+        "count": 63
+    }
+},
+{
+    "id": "mj4",
+    "title": "Mens Jersey 4",
+    "price": 89.95,
+    "description": "Your perfect Jersey in your everyday",
+    "category": "Mens Jersey",
+    "image": "asset/image/jerseyMen/4.jpg",
+    "rating": {
+        "rate": 4.4,
+        "count": 89
+    }
+},
+{
+    "id": "mj5",
+    "title": "Mens Jersey 5",
+    "price": 155.95,
+    "description": "Your perfect Jersey in your everyday",
+    "category": "Mens clothing",
+    "image": "asset/image/jerseyMen/5.jpg",
+    "rating": {
+        "rate": 4.3,
+        "count": 800
+    }
+},
+{
+    "id": "mj6",
+    "title": "Mens Jersey 6",
+    "price": 155.95,
+    "description": "Your perfect Jersey in your everyday",
+    "category": "Mens Jersey",
+    "image": "asset/image/jerseyMen/6.jpg",
+    "rating": {
+        "rate": 4.3,
+        "count": 800
+    }
+},
+{
+    "id": "wj2",
+    "title": "Womens Jersey 2",
+    "price": 144.95,
+    "description": "Your perfect Jersey in your everyday",
+    "category": "Womens Jersey",
+    "image": "asset/image/jerseyWomens/2.jpg",
+    "rating": {
+        "rate": 3.3,
+        "count": 120
+    }
+},
+{
+    "id": "wj3",
+    "title": "Womens Jersey 3",
+    "price": 102.95,
+    "description": "Your perfect Jersey in your everyday",
+    "category": "Womens Jersey",
+    "image": "asset/image/jerseyWomens/3.jpg",
+    "rating": {
+        "rate": 4.7,
+        "count": 63
+    }
+},
+{
+    "id": "wj4",
+    "title": "Womens Jersey 4",
+    "price": 89.95,
+    "description": "Your perfect Jersey in your everyday",
+    "category": "Mens Jersey",
+    "image": "asset/image/jerseyWomens/4.jpg",
+    "rating": {
+        "rate": 4.4,
+        "count": 89
+    }
+},
+{
+    "id": "wj5",
+    "title": "Womens Jersey 5",
+    "price": 155.95,
+    "description": "Your perfect Jersey in your everyday",
+    "category": "Womens clothing",
+    "image": "asset/image/jerseyWomens/5.jpg",
+    "rating": {
+        "rate": 4.3,
+        "count": 800
+    }
+},
+{
+    "id": "wj6",
+    "title": "Womens Jersey 6",
+    "price": 155.95,
+    "description": "Your perfect Jersey in your everyday",
+    "category": "Womens Jersey",
+    "image": "asset/image/jerseyWomens/6.jpg",
+    "rating": {
+        "rate": 4.3,
+        "count": 800
+    }
+}
+]

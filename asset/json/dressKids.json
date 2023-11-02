@@ -1,0 +1,62 @@
+[
+    {
+        "id": "kc1",
+        "title": "Kid's Cloathe 1",
+        "price": 109.95,
+        "description": "Your perfect Cloathes your everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/dressKids/1.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": "kc2",
+        "title": "Kid's Cloathe 2",
+        "price": 109.95,
+        "description": "Your perfect Cloathes your everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/dressKids/2.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": "kc3",
+        "title": "Kid's Cloathe 3",
+        "price": 109.95,
+        "description": "Your perfect Cloathes your everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/dressKids/3.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": "kc4",
+        "title": "Kid's Cloathe 4",
+        "price": 109.95,
+        "description": "Your perfect Cloathes your everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/dressKids/4.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": "kc5",
+        "title": "Kid's Cloathe 5",
+        "price": 109.95,
+        "description": "Your perfect Cloathes your everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/dressKids/5.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    }
+]

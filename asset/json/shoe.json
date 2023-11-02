@@ -1,0 +1,110 @@
+[
+    {
+        "id": "sh1",
+        "title": "Shoe 1",
+        "price": 145.95,
+        "description": "Your perfect Shoe in your everyday",
+        "category": "Shoe",
+        "image": "asset/image/sho/1.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 45
+        }
+    },
+    {
+        "id": "sh2",
+        "title": "Shoe 2",
+        "price": 165.95,
+        "description": "Your perfect Shoe in your everyday",
+        "category": "Shoe",
+        "image": "asset/image/sho/2.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 145
+        }
+    },
+    {
+        "id": "sh4",
+        "title": "Shoe 4",
+        "price": 75.95,
+        "description": "Your perfect Shoe in your everyday",
+        "category": "Shoe",
+        "image": "asset/image/sho/1.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 566
+        }
+    },
+    {
+        "id": "sh5",
+        "title": "Shoe 5",
+        "price": 69.99,
+        "description": "Your perfect Shoe in your everyday",
+        "category": "Shoe",
+        "image": "asset/image/sho/5.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 656
+        }
+    },
+    {
+        "id": "sh6",
+        "title": "Shoe 6",
+        "price": 65.95,
+        "description": "Your perfect Shoe in your everyday",
+        "category": "Shoe",
+        "image": "asset/image/sho/6.jpg",
+        "rating": {
+            "rate": 2.2,
+            "count": 455
+        }
+    },
+    {
+        "id": "sh7",
+        "title": "Shoe 7",
+        "price": 140.90,
+        "description": "Your perfect Shoe in your everyday",
+        "category": "Shoe",
+        "image": "asset/image/sho/7.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 65
+        }
+    },
+    {
+        "id": "sh8",
+        "title": "Shoe 8",
+        "price": 154.10,
+        "description": "Your perfect Shoe in your everyday",
+        "category": "Shoe",
+        "image": "asset/image/sho/8.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 654
+        }
+    },
+    {
+        "id": "sh10",
+        "title": "Shoe 10",
+        "price": 45.99,
+        "description": "Your perfect Shoe in your everyday",
+        "category": "Shoe",
+        "image": "asset/image/sho/10.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 45
+        }
+    },
+    {
+        "id": "sh9",
+        "title": "Shoe 9",
+        "price": 96.99,
+        "description": "Your perfect Shoe in your everyday",
+        "category": "Shoe",
+        "image": "asset/image/sho/9.jpg",
+        "rating": {
+            "rate": 4.9,
+            "count": 48
+        }
+    }
+]

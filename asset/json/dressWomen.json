@@ -1,0 +1,50 @@
+[
+    {
+        "id": "wc1",
+        "title": "Women Cloathe 1",
+        "price": 155.95,
+        "description": "Your perfect Dress in your everyday",
+        "category": "Mens clothing",
+        "image": "asset/image/dressWomen/1.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 455
+        }
+    },
+    {
+        "id": "wc2",
+        "title": "Women Cloathe 2",
+        "price": 144.95,
+        "description": "Your perfect Dress in your everyday",
+        "category": "Mens clothing",
+        "image": "asset/image/dressWomen/2.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 120
+        }
+    },
+    {
+        "id": "wc3",
+        "title": "Women Cloathe 3",
+        "price": 102.95,
+        "description": "Your perfect Dress in your everyday",
+        "category": "Mens clothing",
+        "image": "asset/image/dressWomen/3.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 63
+        }
+    },
+    {
+        "id": "wc4",
+        "title": "Women Cloathe 4",
+        "price": 89.95,
+        "description": "Your perfect Dress in your everyday",
+        "category": "Mens clothing",
+        "image": "asset/image/dressWomen/4.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 89
+        }
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "id": "kj1",
+        "title": "Kid's Jersey 1",
+        "price": 79.95,
+        "description": "Perfect Jersey for your  Kids everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/jerseyKids/1.jpg",
+        "rating": {
+            "rate": 3.5,
+            "count": 1770
+        }
+    },
+    {
+        "id": "kj2",
+        "title": "Kid's Jersey 2",
+        "price": 19.95,
+        "description": "Perfect Jersey for your  Kids everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/jerseyKids/2.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 10
+        }
+    },
+    {
+        "id": "kj3",
+        "title": "Kid's Jersey 3",
+        "price": 99.95,
+        "description": "Perfect Jersey for your  Kids everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/jerseyKids/3.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 1240
+        }
+    },
+    {
+        "id": "kj4",
+        "title": "Kid's Jersey 4",
+        "price": 109.95,
+        "description": "Perfect Jersey for your  Kids everyday",
+        "category": "Kid's clothing",
+        "image": "asset/image/jerseyKids/4.jpg",
+        "rating": {
+            "rate": 3.6,
+            "count": 720
+        }
+    },
+    {
+        "id": "kj5",
+        "title": "Kid's Jersey 5",
+        "price": 109.95,
+        "description": "Perfect Jersey for your Kids",
+        "category": "Kid's clothing",
+        "image": "asset/image/jerseyKids/5.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 170
+        }
+    },
+    {
+        "id": "kj6",
+        "title": "Kid's Jersey 6",
+        "price": 68.95,
+        "description": "Perfect Jersey for your Kids",
+        "category": "Kid's clothing",
+        "image": "asset/image/jerseyKids/6.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 120
+        }
+    },
+    {
+        "id": "kj7",
+        "title": "Kid's Jersey 7",
+        "price": 48.95,
+        "description": "Perfect Jersey for your Kids",
+        "category": "Kid's clothing",
+        "image": "asset/image/jerseyKids/7.jpg",
+        "rating": {
+            "rate":3.1,
+            "count": 145
+        }
+    }
+
+]
